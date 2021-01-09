@@ -1,0 +1,6 @@
+js/node_modules
+js/dist
+vendor/
+composer.lock
+yarn.lock
+.php_cs.cache

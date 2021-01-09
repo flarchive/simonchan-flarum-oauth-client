@@ -1,0 +1,37 @@
+{
+    "name": "blessing/flarum-oauth-client",
+    "description": "OAuth2 client of Blessing Skin for Flarum.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniël Klabbers",
+            "email": "daniel+flarum@klabbers.email",
+            "homepage": "https://hyn.me/"
+        },
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.15",
+        "league/oauth2-client": "^2.3.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Blessing Skin Login",
+            "icon": {
+                "name": "fas fa-tshirt",
+                "backgroundColor": "#6f42c1",
+                "color": "#fff"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Blessing\\Flarum\\": "src/"
+        }
+    }
+}
