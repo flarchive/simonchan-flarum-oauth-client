@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of simonchan/flarum-oauth-client.** Not for installation: use [Packagist](https://packagist.org/packages/simonchan/flarum-oauth-client) or the [upstream repository](https://github.com/Simonchan93729/flarum-oauth-client).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/simonchan-flarum-oauth-client/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.15`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/simonchan-flarum-oauth-client/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-06-17 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/simonchan-flarum-oauth-client/tree/archive/v1.0.0) |
+| `v1.1.0` | 2021-01-09 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/simonchan-flarum-oauth-client/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/simonchan-flarum-oauth-client.json](https://github.com/flarchive/archive-index/blob/main/packages/simonchan-flarum-oauth-client.json)
 
